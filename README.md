@@ -20,7 +20,3 @@ To use this repository, simply navigate to the problem you're interested in. Eac
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code and explanations for personal purposes. However, please provide attribution to this repository when using the code or solutions elsewhere.
 
 Happy coding and best of luck with your software engineering interviews!
-
-If you have any questions or suggestions, please feel free to open an issue or contact me.
-
-Maintainer: [Harshit Joshi](https://github.com/Harshit-3905)
